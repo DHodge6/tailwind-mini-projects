@@ -1,7 +1,9 @@
 # 📫 01 - Email Subscribe Card
 
+🔗 [Live Demo](https://DHodge6.github.io/tailwind-mini-projects/01-email-subscribe/)
+
 A responsive email subscription card UI built with Tailwind CSS.  
-Created as part of the [Tailwind From Scratch](https://www.udemy.com/course/tailwindcss-from-scratch/) course by Brad Traversy.
+Created as part of the [Tailwind From Scratch](https://www.udemy.com/course/tailwind-from-scratch/) course by Brad Traversy.
 
 ---
 
