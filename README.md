@@ -22,3 +22,10 @@ Each project is self-contained with an `index.html`, uses the Tailwind CDN, and 
 📄 [View Source](./02-pricing-cards/)
 
 > A flexible pricing UI with three tiers, styled using Tailwind CSS. Includes button hover states, card highlighting, and icon-based feature lists.
+
+### 03 - Product Modal
+
+🔗 [Live Demo](https://DHodge6.github.io/tailwind-mini-projects/03-product-modal/)  
+📄 [View Source](./03-product-modal/)
+
+> A clean and responsive product info modal showcasing image, price, shipping tag, and action buttons. Includes hover animation with `group-hover`, responsive layout with `md:flex-row`, and a visual stock indicator using Tailwind utility classes.
